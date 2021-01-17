@@ -1,0 +1,16 @@
+Variables: Las variables Es una caja donde guardamos algo para usarlo despues.
+
+Strings: Es el conjunto de palabras o letras.
+
+Funciones (argumentos, return): La funcion nos sirve para que no estemos
+escribiendo la misma operacion varias veces, o sea nos ayuda a agilizar las operaciones.
+El argumento es la variable que le paso a la funcion para que haga sus operaciones.
+E return en una funcion es lo que quiero que me duvuleva la funcion sino solo me devuelve
+undefined.
+
+Declaraciones (if): El if es un condicional, quiere decir que nos sirve para poner una
+condicion y si se cumple se realiza la accion y si no se cumple nos da false o podemos
+poner otra condicion.
+
+Valores booleanos (true, false): los valores booleanos son dos verdadero o falso, 0 o 1,
+si o no, se usa para saber si algo existe o no.
