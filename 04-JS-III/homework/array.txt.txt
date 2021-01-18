@@ -1,0 +1,2 @@
+Array: Los arreglos son una coleccion de diferentes tipos de datos, no es necesario que
+sean del mismo tipo.
