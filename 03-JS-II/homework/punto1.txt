@@ -1,0 +1,5 @@
+for: El for es un bucle repetitivo que funciona miestras se cumpla una condicion.
+
+&&: Es un operador logico llamado 'y' logico.
+||: Operador logico llamado 'o' logico.
+!: Operador logico llamado 'not'.
