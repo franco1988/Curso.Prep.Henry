@@ -1,0 +1,15 @@
+Objetos:Los objetos son colecciones o conjuntos de propiedades con sus respectivos valores.
+
+Propiedades: Las propiedades tienen asociadas a ellas un valor o un tipo de dato.
+Osea cada propiedad con un valor distinto.
+
+Metodos: Los metodos son las funciones.
+
+Bucle(for .. in): Este bucle nos sirve para recorrer un objeto y mostrar sus propiedades
+con sus respectivos valores como si fuera un array.
+
+			Notacion de puntos 	vs	 Notacion de corchetes
+Ventaja:	Escritura mas facil y rapida.		Se pueden realizar mas cosas.
+
+
+Desventaja:	La escritura es literal.		Lleva mas tiempo escribir.
