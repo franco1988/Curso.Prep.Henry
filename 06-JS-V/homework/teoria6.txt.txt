@@ -1,0 +1,4 @@
+prototype: El prototype son las propiedades y metodos que hacen referencia a un objeto,
+estas se usan para no escribir muchas veces los mismos metodos. 
+
+constructor(de clases): En el van las propiedades de la clase y sus metodos.
