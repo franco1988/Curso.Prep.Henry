@@ -1,0 +1,31 @@
+h1{
+    margin-left: 400px;
+    color:blue;
+    font-style:italic;
+}
+img{
+    height: 200px;
+    width: 200px;
+    background-color:lightblue;
+    padding: 5px;
+}
+p{
+    color:red;
+}
+span{
+    color:orange;
+}
+h3{
+    color:white;
+    height: 30px;
+    width: 400px;
+    background-color: red;
+    padding: 5px;
+}
+h4{
+    color:black;
+    height: 30px;
+    width: 400px;
+    background-color: orange;
+    padding: 5px;
+}
